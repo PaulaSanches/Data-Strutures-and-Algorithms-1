@@ -1,0 +1,2 @@
+C:\Users\Paula Sanches\Documents\GitHub\6426Week4\Week4.1\Week4.1\obj\Debug\Week4.1.csprojAssemblyReference.cache
+C:\Users\Paula Sanches\Documents\GitHub\6426Week4\Week4.1\Week4.1\obj\Debug\Week4.1.csproj.CoreCompileInputs.cache
